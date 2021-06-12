@@ -1,0 +1,2 @@
+[01-Mar-2021 06:05:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/l9tslhne/public_html/carrental/update-password.php:2) in /home2/l9tslhne/public_html/carrental/update-password.php on line 3
+[01-Mar-2021 06:05:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home2/l9tslhne/public_html/carrental/update-password.php:2) in /home2/l9tslhne/public_html/carrental/update-password.php on line 3
